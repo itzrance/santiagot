@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @santia83
+- 👋 Hi, I’m @santiagot
 - 👀 I’m interested in Front - End Development
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on small projects
